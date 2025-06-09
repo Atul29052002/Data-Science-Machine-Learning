@@ -1,1 +1,8 @@
+Data : Data is simple collection or set of values in form of text, words, numbers, pictures, audio or video. Its is most important assest for any organization.
+
+How to store Data - Traditional way - on paper 
+                  - File System 
+                  - Databases
+
+Store the data where you can retrieve, update, add, delete or modification is poosible.
 
